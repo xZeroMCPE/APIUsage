@@ -1,2 +1,2 @@
 # APIUsage
-An example plugin utilizing UltraFactions APIs!
+An example plugin utilizing [UltraFaction](https://github.com/PocketEssential/UltraFaction) APIs!
