@@ -1,0 +1,6 @@
+name: APIUsage
+author: xZeroMCPE
+description: Yeppp
+api: [3.0.0]
+version: 1.0.0
+main: xZeroMCPE\APIUsage\APIUsage
